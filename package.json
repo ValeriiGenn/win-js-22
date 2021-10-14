@@ -2,10 +2,9 @@
     "name": "win-js-23",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
     "scripts": {
-        "dev": "parcel src/index.js",
-        "build": "parcel build src/index.js"
+        "dev": "parcel src/index.html",
+        "build": "parcel build src/index.html"
     },
     "repository": {
         "type": "git",
