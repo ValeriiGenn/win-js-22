@@ -1,0 +1,28 @@
+{
+    "name": "win-js-23",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/index.js",
+        "build": "parcel build src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ValeriiGenn/win-js-22.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ValeriiGenn/win-js-22/issues"
+    },
+    "homepage": "https://github.com/ValeriiGenn/win-js-22#readme",
+    "dependencies": {
+        "joi": "^17.4.2",
+        "shortid": "^2.2.16"
+    },
+    "devDependencies": {
+        "parcel": "^2.0.0"
+    }
+}
